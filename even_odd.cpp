@@ -23,3 +23,28 @@ int main()
 
     return 0;
 }
+
+
+// Using & Operator
+
+
+// #include <iostream>
+// using namespace std;
+// int main()
+// {
+//     int num;
+//     cout << "Enter the Number: ";
+//     cin >> num;
+
+//     if (num & 1)              // checking the remainder when the number is divided by 2
+//     {
+//         cout << num << " is odd number";
+//     }
+//     else
+//     {
+//         cout << num << " is Even number";
+//     }
+
+//     return 0;
+// }
+
